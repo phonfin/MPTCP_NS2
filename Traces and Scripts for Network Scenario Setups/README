@@ -1,0 +1,11 @@
+# MPTCP_NS2
+This folder contents the traces and scripts for the NS2 simulations.
+
+With these scripts, the following experiments can be conducted.
+
+1. Simulation under fat-tree topology with different network scales (i.e., different number of pods);
+2. Simulation under leaf-spine topology with different network scales (i.e., different number of racks)
+3. Simulation under four typical data center applications;
+4. Simulation under four different network scenarios (i.e., asymetric network, impact of in-network/end-host buffer size).
+
+NOTE: ensure that the parameters of the scripts are correctly input when running the scripts.
