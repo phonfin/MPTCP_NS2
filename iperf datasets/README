@@ -1,0 +1,4 @@
+# MPTCP iPerf dumped traces
+This folder contents the dumped iPerf packet traces (about 5.7GB data after uncompressing zip file). Wireshark or any other pcap analysis tools are required in order to view the dumped traces.
+
+Multiple MPTCPs are transimtting data (more specifically, 20MB data in each MPTCP flow) in a 3-to-1 topology and the traces from different ethernet interfaces are collected.
