@@ -27,3 +27,7 @@ COMMAND:
 	patching file ns-2.35/tcp/tcp-newreno.cc
 	patching file ns-2.35/tcp/tcp-sink.cc
 	patching file ns-2.35/tcp/tcp-sink.h
+
+
+UPDATE on 7/12/2021:
+	More tcl scripts/traces are provided and the dataset/dumped traces in iPerf are also avaible for further analysis of MPTCP behaviors.
